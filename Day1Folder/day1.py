@@ -97,7 +97,7 @@ command = "eat cake"
 
 title = "president"
 name = "snoopy"
-command = "fight the "
+command = "fight the enemies"
 
 
 
