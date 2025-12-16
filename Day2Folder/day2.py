@@ -15,7 +15,7 @@ for letter in "idle":
 
 name = "ADAM"
 for letter in name:
-    print("give me a " +letter + "!")
+    print("give me a " + letter + "!")
 print("who is the best!")
 print(name + "!!!")
 ########################################################################
