@@ -74,7 +74,7 @@ subtraction (12,9)
 def mutiply(number1 , number2):
     print(number1 * number2)
 mutiply (12,9)
-def addition(number1 , number2):
+def deivision(number1 , number2):
     print(number1 + number2)
 addition (12,9)
 
