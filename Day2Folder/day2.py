@@ -48,15 +48,11 @@ print("hello")
 ########################################################################
 # Additional exercises:
 # Exercise 1:
-
-# Write a program to New Year Eve CountDown Program
-# count down from 10 to 0 and say "Happy New Year!" at the end
 for count in range(10,0,-1):
     print(count)
 print("happy new year")
 # Exercise 2:
 animal = "little lamb"
-
 for count in range(2):
     print("mary had a")
     for count in range(3):
