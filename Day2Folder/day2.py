@@ -12,8 +12,7 @@ for count in range(5):
     print(count)
 for letter in "idle":
     print(letter)
-for letter in "":
-    print(letter)
+
 ########################################################################
 # Task 3:
 
