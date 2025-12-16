@@ -95,8 +95,8 @@ command = "eat cake"
 
 # Example Output: Emperor Johnson commands his peasants to eat cake!
 
-title = "president"
-name = "snoopy"
+title = "president "
+name = "snoopy "
 command = "fight the enemies"
 
 print(title + name + "commands his peasants " + command)
