@@ -6,8 +6,6 @@ print("hello from day2")
 # Task 1:
 for count in range (24):
     print("hi")
-
-d
 ########################################################################
 # Task 2:
 
