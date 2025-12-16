@@ -99,7 +99,7 @@ title = "president"
 name = "snoopy"
 command = "fight the enemies"
 
-print(title + name + "command")
+print(title + name + "commands his peasants" + )
 
 
 
