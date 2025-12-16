@@ -53,7 +53,7 @@ for count in range(10,0,-1):
 print("happy new year")
 # Exercise 2:
 animal = "little lamb"
-for count in range(2):
+for countA in range(2):
     print("mary had a")
     for count in range(3):
         print(animal)
