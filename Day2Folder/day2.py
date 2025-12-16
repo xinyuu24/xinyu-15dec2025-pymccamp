@@ -59,7 +59,7 @@ print("happy new year")
 # Count all the multiples of 3 using the for loop, from 3 to 36
 
 for number in range(3,37,2):
-      print (number)
+    print (number)
 
 ##############################################################################
 # Exercise 4:
