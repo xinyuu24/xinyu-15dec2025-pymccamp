@@ -99,5 +99,7 @@ title = "president"
 name = "snoopy"
 command = "fight the enemies"
 
+print()
+
 
 
