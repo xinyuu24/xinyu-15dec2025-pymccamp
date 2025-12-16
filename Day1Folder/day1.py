@@ -81,5 +81,6 @@ print("Bye")
 # Write codes here
 greet = "hello"
 print(greet)
-name = 
+name = "snoopy"
+
 
