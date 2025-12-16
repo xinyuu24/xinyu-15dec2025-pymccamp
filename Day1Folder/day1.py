@@ -90,6 +90,6 @@ def goodbye():
   print("we had such a fun time")
   print("good bye! see u next time")
 
-hello()
+goodbye()
 
 
