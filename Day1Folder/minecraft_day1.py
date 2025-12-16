@@ -6,6 +6,8 @@ def addition(num1,num2):
 
 addition(12,9)
 
+
+################## On Chat Commands Section #####################
 def teleport():
     agent.teleport_to_player()
 player.on_chat("come", teleport)
@@ -18,5 +20,3 @@ player.on_chat("tl",tl)
 def tr ():
     agent.turn(RIGHT)
 player.on_chat("tr",tr)
-
-################## On Chat Commands Section #####################
