@@ -67,11 +67,19 @@ def division(number1 , number2):
 division (12,9)
 ########################################################################
 # Additional exercises:
-# exercise1
+# exercise 1
 print("Hey")
 print("This is really simple but important")
 print("Python reads from the top to the bottom")
 print("Bye")
-# exercise2
+# exercise 2
+# Store the your name in a variable called "name"
+# Print the contents of variable "name"
+
+# An example is given below
+
+# Write codes here
+greet = "hello"
+print(greet)
 
 
