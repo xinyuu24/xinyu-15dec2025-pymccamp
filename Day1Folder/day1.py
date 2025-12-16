@@ -97,6 +97,6 @@ command = "eat cake"
 
 title = "president"
 name = "snoopy"
-
+command = ""
 
 
