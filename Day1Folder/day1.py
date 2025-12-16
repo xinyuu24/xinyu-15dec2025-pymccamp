@@ -66,7 +66,7 @@ intro()
 number1 = 3
 number2 = 24
 def addition(number1 , number2):
-    print
+    print()
 
 ########################################################################
 # Additional exercises:
