@@ -63,8 +63,7 @@ intro()
 
 # In the function, add number1 and number 2
 # print the result out
-number1 = 3
-number2 = 24
+
 def addition(number1 , number2):
     print(number1 + number2)
 addition (12,9)
@@ -77,9 +76,6 @@ mutiply (12,9)
 def division(number1 , number2):
     print(number1 / number2)
 division (12,9)
-
-
-
 
 ########################################################################
 # Additional exercises:
