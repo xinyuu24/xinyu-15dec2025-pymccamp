@@ -13,6 +13,7 @@ for count in range(5):
 for letter in "idle":
     print(letter)
 
+name =
 ########################################################################
 # Task 3:
 
