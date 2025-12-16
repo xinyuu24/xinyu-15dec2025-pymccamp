@@ -5,8 +5,6 @@ def addition(num1,num2):
     player.say(num1*num2)
 
 addition(12,9)
-
-
 ################## On Chat Commands Section #####################
 def teleport():
     agent.teleport_to_player()
