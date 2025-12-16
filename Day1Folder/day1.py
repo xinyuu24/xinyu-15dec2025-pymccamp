@@ -36,7 +36,6 @@ name = "snoppy"
 hobby = "play snow" 
 print("my name is " + name)
 print("i like to " + hobby)
-
 ########################################################################
 # Task 6:
 def greetings():
