@@ -23,7 +23,7 @@ print(name + "!!!")
 for count in range(1,11):
     print(count)
 print("hello")
-for count in range(2,101,2):
+for count in range(5,32,2):
     print(count)
 print("hello")
 for count in range (100,0,-1):
