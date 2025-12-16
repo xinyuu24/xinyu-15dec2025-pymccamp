@@ -14,7 +14,8 @@ for letter in "idle":
     print(letter)
 
 name = "ADAM"
-for letter in name
+for letter in name:
+    print("give me a")
 ########################################################################
 # Task 3:
 
