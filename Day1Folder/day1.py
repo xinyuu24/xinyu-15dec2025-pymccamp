@@ -81,15 +81,10 @@ name = "snoopy "
 command = "fight the enemies"
 print(title + name + "commands his peasants " + command + ".")
 # Exercise 4
-
-# write a function that prints out lines to say good bye to your friends
-
-# an example of hello is given below
-
 def goodbye():
   print("today is so eventful!")
   print("good bye! see u next time!")
-
 goodbye()
+
 
 
