@@ -22,9 +22,10 @@ print(name + "!!!")
 # Task 3:
 for count in range(1,11):
     print(count)
-print
+print(hello)
 for count in range(2,101,2):
     print(count)
+print
 for count in range (100,0,-1):
     print(count)
 
