@@ -88,7 +88,7 @@ print(title + name + "commands his peasants " + command + ".")
 
 def goodbye():
   print("we had such a fun time")
-  print("good ")
+  print("good bye!")
 
 hello()
 
