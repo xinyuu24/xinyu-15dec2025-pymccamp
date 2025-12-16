@@ -62,9 +62,7 @@ for countA in range(2):
 # Exercise 3:
 for number in range(3,37,3):
     print (number)
-##############################################################################
 # Exercise 4:
-
 print("im here")
 # Using a for loop Say out all the odd numbers from 1 to 99
 for number in range(1,100,2):
