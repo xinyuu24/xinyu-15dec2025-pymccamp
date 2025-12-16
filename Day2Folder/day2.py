@@ -41,7 +41,8 @@ for letter in "idle":
 # Write a program to New Year Eve CountDown Program
 # count down from 10 to 0 and say "Happy New Year!" at the end
 for count in range(10):
-    print
+    print(count)
+    print("")
 # Exercise 2:
 
 # Write a program that sings the nursery rhymes using Loops and Nested Loops (e.g. Loop in a Loop)
