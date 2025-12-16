@@ -76,7 +76,7 @@ division (12,9)
 
 print("Hey")
 print("This is really simple but important")
+print("Python reads from the top to the bottom")
 print("Bye")
 
-print("Python reads from the top to the bottom")
 
