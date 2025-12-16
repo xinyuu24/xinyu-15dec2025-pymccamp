@@ -87,7 +87,7 @@ print(title + name + "commands his peasants " + command + ".")
 # an example of hello is given below
 
 def goodbye():
-  print("we had ")
+  print("we had such ")
   print("My name is Sam")
 
 hello()
