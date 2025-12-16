@@ -67,4 +67,4 @@ for number in range(3,37,3):
 
 # Using a for loop Say out all the odd numbers from 1 to 99
 for number in range(1,100,2):
-    print
+    print(number)
