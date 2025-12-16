@@ -26,7 +26,7 @@ print("hello")
 for count in range(5,32,):
     print(count)
 print("hello")
-for count in range (100,0,-1):
+for count in range (50,0,-1):
     print(count)
 print("hello")
 
