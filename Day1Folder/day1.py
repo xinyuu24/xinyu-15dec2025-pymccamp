@@ -86,7 +86,7 @@ print(title + name + "commands his peasants " + command + ".")
 
 # an example of hello is given below
 
-def hello():
+def goodbye():
   print("Hello, how are you")
   print("My name is Sam")
 
