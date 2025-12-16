@@ -68,6 +68,8 @@ number2 = 24
 def addition(number1 , number2):
     print(number1 + number2)
 
+addition (12,9)
+
 
 
 ########################################################################
