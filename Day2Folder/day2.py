@@ -59,8 +59,6 @@ for count in range(2):
         print(animal)
     print("mary had a little lamb")
     print("whose fleece was white as snow")
-
-##############################################################################
 # Exercise 3:
 for number in range(3,37,3):
     print (number)
