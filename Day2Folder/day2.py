@@ -7,7 +7,7 @@ print("hello from day2")
 for count in range (24):
     print("hi")
 
-fdfsfjkjmk
+fdfsfjkjjkkjkjkjkjkjkj
 ########################################################################
 # Task 2:
 
