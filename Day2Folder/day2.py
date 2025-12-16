@@ -66,7 +66,7 @@ for count in range(2):
     for count in range(3):
         print(animal)
     print("mary had a little lamb")
-    print("whose fleece are white as snow")
+    print("whose fleece was white as snow")
 
 ##############################################################################
 # Exercise 3:
