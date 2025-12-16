@@ -65,7 +65,7 @@ for count in range(2):
     print("mary had a")
     for count in range(3):
         print(animal)
-    print("mary had a ")
+    print("mary had a little lam")
 
 ##############################################################################
 # Exercise 3:
