@@ -82,5 +82,6 @@ print("Bye")
 greet = "hello"
 print(greet)
 name = "snoopy"
+print(name)
 
 
