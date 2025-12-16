@@ -67,11 +67,11 @@ def division(number1 , number2):
 division (12,9)
 ########################################################################
 # Additional exercises:
-# excerscie1
+# excerscise1
 print("Hey")
 print("This is really simple but important")
 print("Python reads from the top to the bottom")
 print("Bye")
-# excercise2
+# exercise2
 
 
