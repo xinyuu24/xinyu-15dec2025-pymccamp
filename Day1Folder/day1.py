@@ -55,15 +55,6 @@ intro()
 ########################################################################
 # Task 7:
 
-# Task 7: Python Functions with Parameters
-## Continue the below in day1.py
-
-# Write a function called **addition()** that will calculate the addition of 2 numbers. 
-# When you define the function, add in 2 parameters **number1** and **number2**
-
-# In the function, add number1 and number 2
-# print the result out
-
 def addition(number1 , number2):
     print(number1 + number2)
 addition (12,9)
