@@ -70,8 +70,8 @@ def addition(number1 , number2):
 addition (12,9)
 def subtraction(number1 , number2):
     print(number1 - number2)
-addition (12,9)
-def addition(number1 , number2):
+subtraction (12,9)
+def (number1 , number2):
     print(number1 + number2)
 addition (12,9)
 def addition(number1 , number2):
