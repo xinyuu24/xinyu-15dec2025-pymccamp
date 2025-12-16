@@ -62,6 +62,7 @@ print("happy new year")
 animal = "little lamb"
 
 for count in range(2):
+    print("mary had a")
     for count in range(3):
         print(animal)
     
