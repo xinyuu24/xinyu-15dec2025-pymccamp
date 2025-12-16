@@ -25,7 +25,7 @@ for count in range(1,11):
 for count in range(2,101,2):
     print(count)
 for count in range (100,0,-1):
-    print
+    print(count)
 
 
 ########################################################################
