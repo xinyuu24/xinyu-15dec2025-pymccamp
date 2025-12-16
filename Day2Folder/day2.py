@@ -17,7 +17,7 @@ name = "ADAM"
 for letter in name:
     print("give me a" +letter + "!")
 print("who is the best!")
-print(name)
+print(name + "!!!")
 ########################################################################
 # Task 3:
 
