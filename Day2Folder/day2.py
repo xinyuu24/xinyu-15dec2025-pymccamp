@@ -64,7 +64,7 @@ animal = "little lamb"
 for count in range(2):
     for count in range(3):
         print(animal)
-        print
+    
 
 ##############################################################################
 # Exercise 3:
