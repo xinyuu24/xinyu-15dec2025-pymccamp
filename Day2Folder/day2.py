@@ -66,4 +66,4 @@ for number in range(3,37,3):
 # Exercise 4:
 
 # Using a for loop Say out all the odd numbers from 1 to 99
-for naumber in range
+for number in range(1,)
