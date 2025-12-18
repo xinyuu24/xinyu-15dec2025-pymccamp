@@ -18,7 +18,9 @@ hidden_answer = "no idea"
 reply = ""
 
 while reply != hidden_answer:
-    reply = input
+    reply = input(question)
+    if reply == hidden_answer:
+        
 
 ########################################################################
 # Additional exercises:
