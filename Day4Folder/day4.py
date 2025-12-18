@@ -18,7 +18,6 @@ hidden_answer = "no idea"
 reply = ""
 
 while reply != hidden_answer:
-
     if reply == hidden_answer:
         print("u got it!")
     else:
