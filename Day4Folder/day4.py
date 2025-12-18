@@ -15,7 +15,7 @@ print("hello from day4")
 # Task 2:
 question = "what do you call a deer with no eye?"
 hidden_answer = "no idea"
-reply = input(question)
+reply = ""
 
 while reply != hidden_answer:
     
@@ -23,7 +23,7 @@ while reply != hidden_answer:
         print("u got it!")
     else:
         print("wrong! try again!")
-        
+
     reply = input(question)
     
 
