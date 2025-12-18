@@ -13,9 +13,9 @@ for count in range(10):
 
 ########################################################################
 # Task 2:
-question = "what do you call a deer with no eye"
-hidden_answer = "no idea"
-reply = ""
+# question = "what do you call a deer with no eye"
+# hidden_answer = "no idea"
+# reply = ""
 
 while reply != hidden_answer:
     reply = input(question)
@@ -24,7 +24,7 @@ while reply != hidden_answer:
     else:
         print("wrong! try again!")
 
-        
+
 
 ########################################################################
 # Additional exercises:
