@@ -6,10 +6,10 @@ print("hello from day4")
 # Task 1:
 # import random
 # print(random.RANDINT(1,999))
-   import random
+import random
 for count in range(10):
  
-    print(random.RANDINT(1,100))
+    print(random.ran(1,100))
 
 
 ########################################################################
