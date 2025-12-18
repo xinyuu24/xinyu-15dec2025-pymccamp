@@ -6,9 +6,9 @@ print("hello from day4")
 # Task 1:
 # import random
 # print(random.randint(1,999))
-import random
-for count in range(10):
-    print(random.randint(1,100))
+# import random
+# for count in range(10):
+#     print(random.randint(1,100))
 
 
 ########################################################################
