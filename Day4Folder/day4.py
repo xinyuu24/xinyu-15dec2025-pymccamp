@@ -10,9 +10,9 @@ print(random.RANDINT(1,999))
 import random
 print(random.RANDINT(1,999))
 import random
-print(rNDOM.RANDINT(1,999))
+print(random.RANDINT(1,999))
 import random
-print(rNDOM.RANDINT(1,999))
+print(random.RANDINT(1,999))
 import random
 print(rNDOM.RANDINT(1,999))
 
