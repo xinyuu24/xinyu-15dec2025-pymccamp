@@ -18,13 +18,12 @@ hidden_answer = "no idea"
 reply = ""
 
 while reply != hidden_answer:
-    
+    reply = input(question)
     if reply == hidden_answer:
         print("u got it!")
     else:
         print("wrong! try again!")
 
-    reply = input(question)
     
 
 
