@@ -20,7 +20,7 @@ reply = ""
 while reply != hidden_answer:
     reply = input(question)
     if reply == hidden_answer:
-        
+        print("")
 
 ########################################################################
 # Additional exercises:
