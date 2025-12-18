@@ -13,7 +13,7 @@ print("hello from day4")
 
 ########################################################################
 # Task 2:
-question = "what do you call a deer with no eye"
+question = "what do you call a deer with no eye?"
 hidden_answer = "no idea"
 reply = ""
 
