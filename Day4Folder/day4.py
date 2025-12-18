@@ -8,7 +8,6 @@ print("hello from day4")
 # print(random.randint(1,999))
 import random
 for count in range(10):
- 
     print(random.randint(1,100))
 
 
