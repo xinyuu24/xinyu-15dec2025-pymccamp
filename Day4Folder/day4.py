@@ -22,7 +22,7 @@ while reply != hidden_answer:
     if reply == hidden_answer:
         print("u got it!")
     else:
-        print
+        print("wrong! try again!")
 
 ########################################################################
 # Additional exercises:
