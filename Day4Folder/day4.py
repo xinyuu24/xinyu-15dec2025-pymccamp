@@ -7,6 +7,14 @@ print("hello from day4")
 import random
 print(rNDOM.RANDINT(1,999))
 
+import random
+print(rNDOM.RANDINT(1,999))
+import random
+print(rNDOM.RANDINT(1,999))
+import random
+print(rNDOM.RANDINT(1,999))
+import random
+print(rNDOM.RANDINT(1,999))
 
 ########################################################################
 # Task 2:
