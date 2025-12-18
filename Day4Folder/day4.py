@@ -4,11 +4,11 @@ print("hello from day4")
 
 ########################################################################
 # Task 1:
-import random
-print(random.RANDINT(1,999))
+# import random
+# print(random.RANDINT(1,999))
 for count in range():
     import random
-    print(random.RANDINT(1,9999))
+    print(random.RANDINT(1,100))
 
 
 ########################################################################
